@@ -7,7 +7,7 @@ import {
   MDBIcon,
 } from "mdb-react-ui-kit";
 
-function App() {
+function loginForm() {
   return (
     <MDBContainer className="p-3 my-5 d-flex flex-column w-50">
       <MDBInput
@@ -45,4 +45,4 @@ function App() {
   );
 }
 
-export default App;
+export default loginForm;
